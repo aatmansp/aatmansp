@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning NodeJS 
-- 👯 I’m looking to collaborate on Web based open source projects
-- 💬 Ask me about Java based Android frontend
+- 🌱 I’m currently learning <b>NodeJS</b>. 
+- 👯 I’m looking to collaborate on <b>Web based open source projects</b>.
+- 💬 Ask me about <b>Java based Android frontend</b>.
 
 ### Stats
 
